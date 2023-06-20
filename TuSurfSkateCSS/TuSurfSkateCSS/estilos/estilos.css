@@ -1,0 +1,54 @@
+/*Esto es la hoja de estilos CSS
+*/
+nav tr
+{
+    background-color: #B3F8FF;
+   
+}
+
+*
+{
+    font-family: Helvetica, sans-serif;
+    
+   
+}
+a:hover
+{
+    text-decoration: none;
+}
+
+nav table
+{
+    border-style: solid;
+    background-color: black;
+}
+.gris
+{
+    color: grey;
+}
+
+div#Quienes
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: justify;
+}
+
+article table 
+{
+    box-shadow: 5px 5px 5px #888;
+     
+}
+article table thead
+{
+    text-shadow: 5px 5px 5px #888;
+}
+
+article table, thead, tr, td
+{
+    border-radius: 20px 20px 20px 20px;
+}
+
+hr
+{
+    border: 2px solid  rgb(0, 0, 0); height: 10%; width: 100%;
+}
